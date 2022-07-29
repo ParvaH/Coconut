@@ -3,8 +3,7 @@ Traditional methods for determining the age of coconuts are time-consuming and c
 some in nature. This project aims to classify coconuts according to their age into tender
 or mature using machine learning techniques and image data. Transfer learning based so-
 lutions are[6] explored in the project. Further, a suitably trained machine learning model
-can be incorporated into an Android app for ease of use, decreasing the dependency on
-highly skilled palm climbers and farmers to find the age of coconuts.A sample Android
+can be incorporated into an Android app for ease of use, enabling even unskilled palm climbers and farmers to find the age of coconuts.A sample Android
 application was built as part of this project.
 The initial approach was to consider the problem as a classification task based on only the
 image data that was made available. Application of pre-trained models based on VGG16,
